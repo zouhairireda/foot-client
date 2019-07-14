@@ -6,7 +6,7 @@ import { MatchDetailComponent } from './resources/matches/match-detail/match-det
 export const appRoutes: Routes = [
     {
         path: '',
-        component: HomeComponent
+        component: MatchListComponent
     },
     {
         path: 'matches',
